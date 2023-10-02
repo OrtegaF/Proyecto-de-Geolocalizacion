@@ -21,7 +21,8 @@ npm install -D @types/leaflet
 # Configuracion y desarrollo 
 -Versiones
 Para realizar este proyecto se utilizaron las siguientes versiones: 
-![versiones](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/2a708179-3c3c-4234-9e83-85194e69a0ad)
+![versiones](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/f308dade-518a-42bd-8c80-26e27e7163a4)
+
 
 -Desarrollo 
 Ya que solamente se necesitaba marcar nodos se utilizo el siguiente codigo, recordemos que este cambiara en las variables ya que se pide 4 nodos de referencia:
