@@ -12,7 +12,7 @@ import { MapContainer, TileLayer, useMap } from 'react-leaflet'
 Nota: Si es que no se hacen las anteriores instalaciones, se puede sustituir por esta linea de codigo:
 npm install -D @types/leaflet
 
-#Configuracion y desarrollo 
+# Configuracion y desarrollo 
 -Versiones
 Para realizar este proyecto se utilizaron las siguientes versiones: 
 ![WhatsApp Image 2023-10-01 at 11 07 57 AM](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/2a708179-3c3c-4234-9e83-85194e69a0ad)
@@ -35,5 +35,5 @@ render(
   </MapContainer>,
 )
 
-#Resultado
+# Resultado
 ![WhatsApp Image 2023-09-30 at 11 18 02 PM](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/f31e36ad-fae9-478b-a2b3-b1da1ffa3000)
