@@ -2,13 +2,13 @@
 OpenStreetMap es un proyecto colaborativo para crear mapas editables y libres, para consumir.OpenStreetMap se apoya de la biblioteca Leaflet de JavaScript de código abierto el cual tiene mapas interactivos. Al encontrar esta biblioteca, react contiene una libreria llamada react-leaflet el cual este tiene componentes basados en leaflet para su manipulacion en react. 
 
 # Instalacion de react-leaflet
-Se deben de ejecutar los siguientes comandos en la carpeta de nuestro proyecto:
+Se deben de ejecutar los siguientes comandos en la carpeta de nuestro proyecto :
 ```
 npm install react react-dom leaflet
 npm install react-leaflet
 ```
 
-Al instalar lo anteriormente comentado, debemos de importar los componentes que vamos a utilizar que son los siguientes:
+Al instalar lo anteriormente comentado, debemos de importar los componentes que vamos a utilizar que son los siguientes :
 ```
 import { MapContainer, TileLayer, useMap } from 'react-leaflet'
 ```
