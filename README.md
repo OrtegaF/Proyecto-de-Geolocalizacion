@@ -1,14 +1,14 @@
 # OpenStreetMap 
-OpenStreetMap es un proyecto colaborativo para crear mapas editables y libres, para consumir OpenStreetMap nos apoyamos de la biblioteca Leaflet de JavaScript de código abierto el cual tiene mapas interactivos. Al encontrar esta biblioteca, react contiene una libreria llamada react-leaflet el cual este tiene componentes basados en leaflet para su manipulacion en react. 
+OpenStreetMap es un proyecto colaborativo para crear mapas editables y libres, para consumir.OpenStreetMap se apoya de la biblioteca Leaflet de JavaScript de código abierto el cual tiene mapas interactivos. Al encontrar esta biblioteca, react contiene una libreria llamada react-leaflet el cual este tiene componentes basados en leaflet para su manipulacion en react. 
 
 # Instalacion de react-leaflet
-Se deben de ejecutar los siguientes comandos en la carpeta de nuestro proyecto:
+Se deben de ejecutar los siguientes comandos en la carpeta de nuestro proyecto :
 ```
 npm install react react-dom leaflet
 npm install react-leaflet
 ```
 
-Al instalar lo anteriormente comentado, debemos de importar los componentes que vamos a utilizar que son los siguientes:
+Al instalar lo anteriormente comentado, debemos de importar los componentes que vamos a utilizar que son los siguientes :
 ```
 import { MapContainer, TileLayer, useMap } from 'react-leaflet'
 ```
@@ -21,7 +21,8 @@ npm install -D @types/leaflet
 # Configuracion y desarrollo 
 -Versiones
 Para realizar este proyecto se utilizaron las siguientes versiones: 
-![versiones](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/2a708179-3c3c-4234-9e83-85194e69a0ad)
+![versiones](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/f308dade-518a-42bd-8c80-26e27e7163a4)
+
 
 -Desarrollo 
 Ya que solamente se necesitaba marcar nodos se utilizo el siguiente codigo, recordemos que este cambiara en las variables ya que se pide 4 nodos de referencia:
@@ -44,4 +45,4 @@ render(
 ```
 
 # Resultado
-![WhatsApp Image 2023-09-30 at 11 18 02 PM](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/f31e36ad-fae9-478b-a2b3-b1da1ffa3000)
+![result](https://github.com/OrtegaF/Proyecto-de-Geolocalizacion/assets/105130659/502791c1-0e0b-47da-99b2-b642f95ca733)
