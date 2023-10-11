@@ -2,12 +2,13 @@ import React from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 
-const MapView = () =>{
+const Map2View = () =>{
     const Puebla = [19.03218, -98.21771];
     const UTP = [19.05461, -98.15194];
     const Loreto = [19.06556, -98.17693];
     const Catedral = [19.04308, -98.19801];
     const Fuente = [19.09676, -98.23289];
+    
 return (
        <div className='map-container'>
     <MapContainer center={Puebla} zoom={13} scrollWheelZoom={false}>
@@ -15,6 +16,7 @@ return (
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
+        
         <Marker position={UTP}>
           <Popup>
             Universidad Tecnológica de Puebla.
@@ -39,4 +41,4 @@ return (
     </div>
 )
 }
-export default MapView;
+  export default Map2View;
