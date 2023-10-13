@@ -2,3 +2,16 @@
   width: 100vw;
   height: 100vh;
 }
+.leaflet-control{
+  color: black;
+}
+input{
+  background-color: white;
+  color: black;
+}
+button{
+  color: black;
+}
+.leaflet-routing-geocoder-result{
+  color: black;
+}

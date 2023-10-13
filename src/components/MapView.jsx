@@ -1,10 +1,11 @@
 import React from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
+import { MapRutas } from "./MapRutas";
 
 const MapView = () =>{
     const Puebla = [19.03218, -98.21771];
-    const UTP = [19.05461, -98.15194];
+    const UTP = [19.058392, -98.1545258];
     const Loreto = [19.06556, -98.17693];
     const Catedral = [19.04308, -98.19801];
     const Fuente = [19.09676, -98.23289];
@@ -35,6 +36,7 @@ return (
             Fuente de los Frailes.
           </Popup>
         </Marker>
+        <MapRutas/>
     </MapContainer>
     </div>
 )
