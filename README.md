@@ -1,6 +1,11 @@
 # OpenStreetMap 
 OpenStreetMap es un proyecto colaborativo para crear mapas editables y libres, para consumir.OpenStreetMap se apoya de la biblioteca Leaflet de JavaScript de código abierto el cual tiene mapas interactivos. Al encontrar esta biblioteca, react contiene una libreria llamada react-leaflet el cual este tiene componentes basados en leaflet para su manipulacion en react. 
 
+# Leaflet-routing-machine
+Leaflet Routing Machine es una forma fácil, flexible y extensible de agregar rutas a un mapa de Leaflet, a continuacion se coloca los link´s para consultar y ver algunos tutoriales para su ejecucion
+* https://www.liedman.net/leaflet-routing-machine/
+* https://www.liedman.net/leaflet-routing-machine/api/
+
 # Clonar proyecto y instalacion
 Debes de clonar el proyecto en la consola de git de la siguiente manera 
 ```
