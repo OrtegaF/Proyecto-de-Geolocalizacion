@@ -7,7 +7,7 @@ import Map2View from './components/Map2View';
 function App() {
 
   return (
-    <Map2View />
+    <MapView />
   );
 }
 
