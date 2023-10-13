@@ -11,6 +11,10 @@
   },
   "dependencies": {
     "leaflet": "^1.9.4",
+<<<<<<< HEAD
+=======
+    "leaflet-control-geocoder": "^2.4.0",
+>>>>>>> Jose
     "leaflet-routing-machine": "^3.2.12",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
