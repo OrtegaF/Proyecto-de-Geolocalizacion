@@ -37,10 +37,12 @@ Para realizar este proyecto se utilizan las siguientes versiones:
 * "react-leaflet": "^4.2.1"
 
 En el archivo index.html se debe de colocar las siguientes lineas para utilizar las hojas de estilo y funcionalidades de leaflet-routing-machine 
-*   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
-*   <link rel="stylesheet" href="./node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
-*  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
-*  <script src="./node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+```
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+<link rel="stylesheet" href="./node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
+ <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+ <script src="./node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+```
 
 
 
